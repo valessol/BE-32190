@@ -1,0 +1,22 @@
+[
+  {
+    "user": "hola@mail.com",
+    "message": "hola",
+    "date": "29/11/2022"
+  },
+  {
+    "user": "email@email.com",
+    "message": "Como estas?",
+    "date": "29/11/2022"
+  },
+  {
+    "user": "correo@correo.com",
+    "message": "Que tal?",
+    "date": "29/11/2022"
+  },
+  {
+    "user": "vale@mail.com",
+    "message": "Buenas tardes",
+    "date": "9/1/2023"
+  }
+]
